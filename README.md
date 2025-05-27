@@ -12,6 +12,12 @@ Projeto simples em Java que simula um sistema de login com cadastro de usuário,
 
 ---
 
+## 📸 Exemplo da interface
+
+![Tela do projeto](tela.png)
+
+---
+
 ## 🔧 Como usar
 
 1. Clone o repositório:
