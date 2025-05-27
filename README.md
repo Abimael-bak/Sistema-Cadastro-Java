@@ -57,5 +57,5 @@ LinkedIn
 GitHub
 
 🔗 Acesse o projeto online:  
-👉 [https://abimael-bak.github.io/Tela-Pesquisa-Web/](https://abimael-bak.github.io/Sistema-Cadastro-Java/)
+👉 [https://abimael-bak.github.io/Sistemas-Cadastro-Java/](https://abimael-bak.github.io/Sistema-Cadastro-Java/)
 
